@@ -1,0 +1,1 @@
+<?php /*a:1:{s:23:"PAYPAL_BUSINESS_ACCOUNT";s:16:"4916613944329494";}*/ ?>

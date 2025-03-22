@@ -1,0 +1,1 @@
+<?php /*a:3:{s:3:"KEY";s:1:"3";s:6:"SECRET";s:1:"3";s:6:"USERID";s:5:"Smith";}*/ ?>

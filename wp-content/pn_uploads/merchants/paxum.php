@@ -1,0 +1,1 @@
+<?php /*a:2:{s:11:"PAXUM_EMAIL";s:21:"ax7qbaosb@example.com";s:12:"PAXUM_SECRET";s:4:"data";}*/ ?>

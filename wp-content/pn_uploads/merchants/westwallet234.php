@@ -1,0 +1,1 @@
+<?php /*a:3:{s:13:"CONFIRM_COUNT";s:1:"3";s:10:"PUBLIC_KEY";s:1:"3";s:11:"PRIVATE_KEY";s:1:"3";}*/ ?>

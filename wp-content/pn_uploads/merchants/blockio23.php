@@ -1,0 +1,1 @@
+<?php /*a:5:{s:10:"BLOCKIO_CV";s:1:"3";s:11:"BLOCKIO_PIN";s:1:"3";s:11:"BLOCKIO_BTC";s:11:"10000000146";s:11:"BLOCKIO_LTC";s:11:"10000000146";s:12:"BLOCKIO_DOGE";s:1:"3";}*/ ?>

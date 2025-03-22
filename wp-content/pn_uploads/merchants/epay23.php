@@ -1,0 +1,1 @@
+<?php /*a:3:{s:13:"PAYEE_ACCOUNT";s:16:"4916613944329494";s:10:"PAYEE_NAME";s:5:"Smith";s:7:"API_KEY";s:1:"3";}*/ ?>

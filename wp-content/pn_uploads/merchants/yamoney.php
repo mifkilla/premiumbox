@@ -1,0 +1,1 @@
+<?php /*a:2:{s:13:"API_TOKEN_KEY";s:1:"3";s:10:"API_WALLET";s:1:"3";}*/ ?>

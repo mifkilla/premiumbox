@@ -1,0 +1,1 @@
+<?php /*a:2:{s:11:"PAXUM_EMAIL";s:22:"netsparker@example.com";s:12:"PAXUM_SECRET";s:1:"3";}*/ ?>

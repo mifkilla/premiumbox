@@ -1,0 +1,1 @@
+<?php /*a:3:{s:9:"SMSC_NAME";s:5:"Smith";s:9:"SMSC_PASS";s:1:"3";s:11:"SMSC_SENDER";s:1:"3";}*/ ?>

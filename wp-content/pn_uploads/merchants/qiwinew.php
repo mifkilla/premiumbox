@@ -1,0 +1,1 @@
+<?php /*a:3:{s:8:"CARD_NUM";s:16:"4916613944329494";s:11:"MERCHANT_ID";s:1:"3";s:12:"MERCHANT_KEY";s:1:"3";}*/ ?>

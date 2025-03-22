@@ -1,0 +1,1 @@
+<?php /*a:10:{s:8:"API_NAME";s:5:"Smith";s:13:"ACCOUNT_EMAIL";s:22:"netsparker@example.com";s:12:"API_PASSWORD";s:1:"3";s:8:"U_WALLET";s:1:"3";s:8:"E_WALLET";s:1:"3";s:8:"R_WALLET";s:1:"3";s:8:"G_WALLET";s:1:"3";s:8:"H_WALLET";s:1:"3";s:8:"T_WALLET";s:1:"3";s:8:"B_WALLET";s:1:"3";}*/ ?>

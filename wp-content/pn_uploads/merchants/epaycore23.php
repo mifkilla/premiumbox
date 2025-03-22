@@ -1,0 +1,1 @@
+<?php /*a:4:{s:6:"SCI_ID";s:1:"3";s:8:"SCI_PASS";s:1:"3";s:6:"API_ID";s:1:"3";s:10:"API_SECRET";s:1:"3";}*/ ?>

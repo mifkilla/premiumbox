@@ -1,0 +1,1 @@
+<?php /*a:5:{s:13:"ACCOUNT_EMAIL";s:2:"20";s:8:"SCI_NAME";s:4:"John";s:10:"SCI_SECRET";s:4:"data";s:8:"API_NAME";s:4:"John";s:12:"API_PASSWORD";s:4:"data";}*/ ?>

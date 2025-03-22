@@ -1,0 +1,1 @@
+<?php /*a:2:{s:17:"PAYEER_SEKRET_KEY";s:1:"3";s:14:"PAYEER_SHOP_ID";s:1:"3";}*/ ?>
